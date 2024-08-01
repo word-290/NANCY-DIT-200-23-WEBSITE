@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    margin: 1.25rem;
+}
+header {
+    background-color: #0000FF;
+    padding: 0.625rem;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+h1, h2 {
+    color: green;
+}
+img {
+    display: block;
+    margin: 1.25rem auto;
+}
+hr {
+    border: 0;
+    height: 0.0625rem;
+    background-color: orange;
+    margin: 1.25rem 0;
+}
